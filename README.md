@@ -40,7 +40,7 @@ Before running this project, you need to ensure you have the following prerequis
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo-name
+   cd Property-Listing-Data-Collection-and-Google-Sheets-Integration
    ```
 
 3. Update the Chrome WebDriver path in the `chrome_driver_path` variable in the script with the correct path to your WebDriver executable.
